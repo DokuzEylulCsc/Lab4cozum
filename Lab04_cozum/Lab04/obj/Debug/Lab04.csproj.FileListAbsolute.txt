@@ -1,0 +1,6 @@
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\Dropbox\Dropbox\Project\midiReader\Lab04\Lab04\obj\Debug\Lab04.pdb
